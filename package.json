@@ -1,0 +1,9 @@
+{
+  "name": "verified-agent-identity",
+  "version": "1.0.0",
+  "description": "Billions Network Verified Agent",
+  "main": "index.js",
+  "dependencies": {
+    "clawhub": "latest"
+  }
+}
